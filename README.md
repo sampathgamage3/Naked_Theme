@@ -8,6 +8,7 @@ Download the WordPress from http://wordpress.org/ and install.
 Download the 'feb-meetup-theme' folder and put into the Themes Folder inside WordPress
 
 # Step 3
-Install the Wp REST API (V2) Plugin
+Download http://v2.wp-api.org/ Install the Wp REST API (V2) Plugin
 
+# Happy Coding
 ! Now its Time to Change this as you want.Happy Coding !
